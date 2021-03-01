@@ -1,13 +1,8 @@
 # README
 ## This is the README for your extension "nlouis56-color"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Hi! This is my personnal color theme for visual studio, it is loosely inspired from the "sonicradish" theme on ZSH.
+Feel free to hit me up if you'd like to contribute to this theme, you can reuse it however you want, as long as you don't try to sell it or something, it's free and it will always be!
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
+co-developpé avec Claire :)
 **Enjoy!**

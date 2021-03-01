@@ -2,10 +2,14 @@
 	"name": "nlouis56_color",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#000000",
+		"editor.foreground": "#f0ffee",
+		"activityBarBadge.background": "#f57b00",
+		"statusBar.background": "#f57b00",
+    	"statusBar.noFolderBackground": "#f57b00",
+    	"statusBar.debuggingBackground": "#f53100",
+		"sideBarTitle.foreground": "#bbbbbb",
+		"sideBar.background": "#111111"
 	},
 	"tokenColors": [
 		{
@@ -16,7 +20,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#8787af"
 			}
 		},
 		{
@@ -56,7 +60,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#f57b00"
 			}
 		},
 		{
@@ -76,7 +80,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#4ecdff"
 			}
 		},
 		{
@@ -100,7 +104,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#1755ff"
 			}
 		},
 		{
@@ -119,7 +123,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#a4f071"
 			}
 		},
 		{
@@ -135,7 +139,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"foreground": "#9437e0"
 			}
 		},
 		{
@@ -150,7 +154,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#68d700"
 			}
 		},
 		{
