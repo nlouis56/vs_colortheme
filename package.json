@@ -1,7 +1,11 @@
 {
     "name": "nlouis56-color",
     "displayName": "nlouis56_color",
-    "description": "Nataniel's custom black and orange color theme",
+    "publisher": "nlouis56",
+    "author": {
+        "name": "Nataniel Louis"
+    },
+    "description": "Nataniel's custom dark color theme",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.53.0"
@@ -9,6 +13,17 @@
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "nlouis56",
+        "epitech2025",
+        "tech116",
+        "black",
+        "orange"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nlouis56/vs_colortheme/blob/master/themes/nlouis56_color-color-theme.json"
+    },
     "contributes": {
         "themes": [
             {
