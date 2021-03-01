@@ -1,0 +1,21 @@
+{
+    "name": "nlouis56-color",
+    "displayName": "nlouis56_color",
+    "description": "Nataniel's custom black and orange color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "nlouis56_color",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nlouis56_color-color-theme.json"
+            }
+        ]
+    }
+}
