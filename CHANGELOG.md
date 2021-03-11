@@ -1,10 +1,12 @@
 # Change Log
 
-All notable changes to the "nlouis56-color" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
+## [Version 0.01]
 
 - Initial release
 - First big color adjustment
+
+#
+
+## [Version 0.02][UNRELEASED]
+- Trying to change more colors in the window
+- Getting a custom font in the Explorer window
