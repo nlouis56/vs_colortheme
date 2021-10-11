@@ -2,7 +2,7 @@
 	"name": "nlouis56_color",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#000000",
+		"editor.background": "#1e1e1e",
 		"editor.foreground": "#f0ffee",
 		"activityBarBadge.background": "#f57b00",
 		"statusBar.background": "#f57b00",
@@ -60,7 +60,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#f57b00"
+				"foreground": "#f88c20"
 			}
 		},
 		{
@@ -104,7 +104,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#1755ff"
+				"foreground": "#63c1fa"
 			}
 		},
 		{
@@ -139,7 +139,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#9437e0"
+				"foreground": "#a86bda"
 			}
 		},
 		{
@@ -154,7 +154,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#68d700"
+				"foreground": "#94e647"
 			}
 		},
 		{
